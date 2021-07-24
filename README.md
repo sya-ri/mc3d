@@ -1,3 +1,9 @@
 # mc3d
 
-- [ビートルートスープ](beetroot_soup)
+## モデル一覧
+
+- [ビートルートスープ](https://s7a.dev/mc3d/?beetroot_soup/beetroot_soup.gltf) / [:eyes:](beetroot_soup)
+
+## 使っているツール
+
+- [Blockbench](https://www.blockbench.net)
